@@ -4,6 +4,9 @@
  * 
  * @copyright 2013 Chris Churchwell
  */
+ 
+namespace thedudeguy;
+
 class Rcon {
 	
 	private $host;
