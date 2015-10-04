@@ -1,0 +1,22 @@
+{
+    "name": "goldman40/php-rcon-minecraft",
+    "description": "Send commande from php to minecraft",
+    "type": "library",
+    "keywords": ["rcon", "php", "minecraft"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thedudeguy",
+            "homepage": "https://github.com/thedudeguy"
+        },
+        {
+            "name": "Goldman40",
+            "email": "goldman40@laposte.net",
+            "homepage": "https://twitter.com/CGoldman40"
+        }
+    ],
+    "require":
+    {
+        "php": ">=5.4"
+    }
+}
