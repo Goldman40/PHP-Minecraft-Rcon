@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "thedudeguy\\": "src/"
+            "thedudeguy\\": "src"
         }
     }
 }
