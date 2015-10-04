@@ -24,7 +24,7 @@ class Rcon {
 	const SERVERDATA_EXECCOMMAND = 2;
 	const SERVERDATA_RESPONSE_VALUE = 0;
 	
-	public function __construct($host, $port, $password, $timeout)
+	public function __construct($host, $port, $password, $timeout = 3)
 	{
 		$this->host = $host;
 		$this->port = $port;
