@@ -1,6 +1,6 @@
 {
     "name": "goldman40/php-rcon-minecraft",
-    "description": "Send commande from php to minecraft",
+    "description": "Send commands from php to minecraft",
     "type": "library",
     "keywords": ["rcon", "php", "minecraft"],
     "license": "MIT",
